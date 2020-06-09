@@ -1,27 +1,27 @@
 export const robots = [ //not export default thats why when importing you need to do destructuring { }
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Luis Perez',
+    username: 'Luisprz',
+    email: 'luisperez@klk.com'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'isaazz',
+    username: 'isaazz',
+    email: 'isaazz@isaazz.isaazz'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'El engel',
+    username: 'Engel',
+    email: 'Engel@yesenia.net'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Roman el celdo',
+    username: 'Roman',
+    email: 'Roman@klk.org'
   },
   {
     id: 5,
@@ -31,9 +31,9 @@ export const robots = [ //not export default thats why when importing you need t
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Robenmy',
+    username: 'Robenmy',
+    email: 'klk@klk.info'
   },
   {
     id: 7,
